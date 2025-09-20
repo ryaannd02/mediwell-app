@@ -1,0 +1,23 @@
+MASYARAKAT akses /login
+
+ryan@mail.com
+yanyan
+
+bagoes@mail.com
+gusgus
+
+DOKTER akses /login/dokter
+
+dokter@mail.com
+dokdok
+
+bagoes@mail.com
+dokdok
+
+hani@mailcom
+dokdok
+
+TOKO akses /login/toko
+
+toko@mail.com
+tokotoko
